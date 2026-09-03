@@ -27,7 +27,7 @@
 ```txt
 class Desenvolvedora:
     def __init__(self):
-        self.nome = "Seu Nome"
+        self.nome = "Giovana"
         self.stack = "Python 🐍"
         self.paixao = ["código limpo", "automação", "dados", "café ☕"]
         self.modo = "criativo + focado"
