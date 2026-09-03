@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/riri.gif" width="160">
+<img src="assets/gif1.gif" width="160">
 
 # ੈ✩‧₊˚ 𝐎𝐥𝐚́, 𝐬𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨(𝐚)! ‧₊˚✩ੈ‧₊˚
 
@@ -38,7 +38,7 @@ class Desenvolvedora:
 
 </td>
 <td width="40%" align="center">
-<img src="assets/riri3.gif" width="180">
+<img src="assets/gif3.gif" width="180">
 </td>
 </tr>
 </table>
@@ -47,7 +47,7 @@ class Desenvolvedora:
 
 ## 🎀 Sobre Mim & Personalidade
 
-<img align="right" src="assets/ab4cb1aba5a2e59211a4ec0fcbb49ec3.gif" width="150">
+<img align="right" src="assets/gif2.gif" width="150">
 
 Minha trajetória em Python começou com muita curiosidade e hoje já virou paixão de verdade. Gosto de resolver problemas com lógica clara, escrever código legível e aprender algo novo todo dia — seja um framework, uma lib ou só um jeito mais elegante de fazer as coisas.
 
