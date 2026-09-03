@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gif1.gif" width="160">
+<img src="assets/gif4.gif" width="160">
 
 # ੈ✩‧₊˚ 𝐎𝐥𝐚́, 𝐬𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨(𝐚)! ‧₊˚✩ੈ‧₊˚
 
@@ -38,7 +38,7 @@ class Desenvolvedora:
 
 </td>
 <td width="40%" align="center">
-<img src="assets/gif3.gif" width="180">
+<img src="assets/gif6.gif" width="180">
 </td>
 </tr>
 </table>
@@ -47,7 +47,7 @@ class Desenvolvedora:
 
 ## 🎀 Sobre Mim & Personalidade
 
-<img align="right" src="assets/gif2.gif" width="150">
+<img align="right" src="assets/gif1.gif" width="150">
 
 Minha trajetória em Python começou com muita curiosidade e hoje já virou paixão de verdade. Gosto de resolver problemas com lógica clara, escrever código legível e aprender algo novo todo dia — seja um framework, uma lib ou só um jeito mais elegante de fazer as coisas.
 
@@ -59,7 +59,9 @@ Minha trajetória em Python começou com muita curiosidade e hoje já virou paix
 - ⚡Sempre decorando algo personalizado em qualquer oportunidade🍵
 
 <br clear="right">
-
+<div align="center">
+<img src="assets/gif2.jpg" width="500">
+</div>
 ---
 
 ## 💻 Tech Stack
@@ -93,7 +95,7 @@ Minha trajetória em Python começou com muita curiosidade e hoje já virou paix
 </div>
 
 <div align="center">
-<img src="assets/1b3b889d8e0de7767aada2724ff99e74.gif" width="260">
+<img src="assets/gif3.gif" width="260">
 </div>
 
 ### 📊 Nível de habilidade (Python)
@@ -121,7 +123,7 @@ SQL           ██████████████░░░░░░  70%
 
 <br><br>
 
-<img src="assets/riri2.gif" width="320">
+<img src="assets/gif5.gif" width="320">
 
 </div>
 
@@ -149,7 +151,7 @@ SQL           ██████████████░░░░░░  70%
 
 > 💌 Obrigada por passar por aqui! Fique à vontade para dar uma olhada nos meus projetos ✨
 
-<img src="assets/1b3b889d8e0de7767aada2724ff99e74.gif" width="200">
+<img src="assets/gif3.gif" width="200">
 
 </div>
 
